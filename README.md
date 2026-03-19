@@ -40,7 +40,7 @@ calculator/
 1. Clone the repository:
 
 ```
-git clone https://github.com/AnishKulal08/calculator.git
+git clone [https://github.com/AnishKulal08/calculator.git](https://github.com/Anishkulal08/Pyhton_calculator-GUI-.git)
 ```
 
 2. Navigate to the folder:
