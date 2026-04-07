@@ -14,7 +14,8 @@ It provides basic arithmetic operations with a clean and user-friendly interface
 * 🔄 Clear (C) button
 * ⌫ Backspace support
 * 🎨 Modern dark-themed UI
-
+* Interactive design
+  
 ---
 
 ## 🛠️ Technologies Used
